@@ -1,2 +1,3 @@
 okey
 oct7iQdiZTwMyazij1FdJfqUoeYCGHufjG9tUjv4WWNXpBA
+./run.sh 
